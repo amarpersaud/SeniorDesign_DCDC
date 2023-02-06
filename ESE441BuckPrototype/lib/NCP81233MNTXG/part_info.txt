@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NCP81233MNTXG
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=53
+Version=2.1
+Released=2018-03-14 14:13:03
+Downloaded=2023-02-05 23:26:40
+3D=Y

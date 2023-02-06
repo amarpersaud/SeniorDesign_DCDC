@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "CustomPartsLibrary")(type "KiCad")(uri "${KIPRJMOD}/lib/CustomPartsLibrary.kicad_sym")(options "")(descr ""))
+  (lib (name "NCP81233MNTXG")(type "Legacy")(uri "${KIPRJMOD}/lib/NCP81233MNTXG/KiCad/NCP81233MNTXG.lib")(options "")(descr ""))
 )

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NCP81233MNTXG'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NCP81233MNTXG" (!) = "", "QFN40P600X600X100-53N", "Quad Flat No-Lead", "863-NCP81233MNTXG", "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NCP81233MNTXG/?qs=z6PAvqrnkvQJZ4opJwgsbQ%3D%3D", "Multi-Phase Controller, Configurable, 4.5 V to 20 V, I2C", "http://www.onsemi.com/pub/Collateral/NCP81233-D.PDF", "1 mm"
+END_PART
+
+END.
