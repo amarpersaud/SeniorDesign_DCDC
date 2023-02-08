@@ -320,6 +320,26 @@
     [
       "cfa51788-97c2-4790-b5b2-c82c675f3b16",
       ""
+    ],
+    [
+      "9592771a-55a0-4fd5-a295-b31856f0dcce",
+      "PWM_Controller"
+    ],
+    [
+      "6a18841e-10d2-462e-9013-c46f018cb15d",
+      "Single_Phase"
+    ],
+    [
+      "3fb02998-24e2-415c-be56-4aa08d7c33e1",
+      "Single_Phase1"
+    ],
+    [
+      "c40b8f97-aa7c-4f3d-8800-858f1175d449",
+      "Single_Phase2"
+    ],
+    [
+      "3ec646dd-5f40-4b1c-a84e-9994d2a2ab3f",
+      "Single_Phase3"
     ]
   ],
   "text_variables": {}
