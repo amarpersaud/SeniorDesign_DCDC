@@ -250,7 +250,7 @@
       (reference "R7") (unit 1) (value "0") (footprint "")
     )
     (path "/9592771a-55a0-4fd5-a295-b31856f0dcce/f5c2099c-d854-4ffd-9a86-b873b245ab2c"
-      (reference "R8") (unit 1) (value "TBD") (footprint "")
+      (reference "R8") (unit 1) (value "DNP") (footprint "")
     )
     (path "/9592771a-55a0-4fd5-a295-b31856f0dcce/30fb63a2-110d-487a-a33e-fb0c837f61dc"
       (reference "R?") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
