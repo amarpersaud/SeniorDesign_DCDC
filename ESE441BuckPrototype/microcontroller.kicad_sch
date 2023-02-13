@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid 20d54367-8449-4053-a419-efcfeb8dc72f)
+  (uuid a398c9b5-d29c-4787-9687-ee8786d1b2dc)
 
   (paper "A4")
 
@@ -1419,7 +1419,7 @@
     (uuid b2bdf9a0-2ee7-4da0-9c89-0d34bfcc3ceb)
     (property "Reference" "J?" (id 0) (at 228.6 82.55 0))
     (property "Value" "ICSP" (id 1) (at 228.6 85.09 0))
-    (property "Footprint" "" (id 2) (at 227.33 91.44 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" (id 2) (at 227.33 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 227.33 91.44 0)
