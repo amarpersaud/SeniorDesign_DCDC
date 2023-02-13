@@ -728,6 +728,9 @@
     (path "/9592771a-55a0-4fd5-a295-b31856f0dcce/63b895d3-0404-4315-8229-a0235e9ddc6c"
       (reference "JP6") (unit 1) (value "Jumper_Open") (footprint "")
     )
+    (path "/9592771a-55a0-4fd5-a295-b31856f0dcce/8123e3b6-a4f1-47f7-9807-a905b3e463ce"
+      (reference "JP7") (unit 1) (value "Jumper_Bridged") (footprint "")
+    )
     (path "/6a18841e-10d2-462e-9013-c46f018cb15d/935eac5d-ede0-4ade-b9b2-08d23b5ead85"
       (reference "L1") (unit 1) (value "4.7u") (footprint "Inductor_SMD:L_7.3x7.3_H4.5")
     )
